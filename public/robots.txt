@@ -1,2 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
+
+Sitemap: https://portofolio-2wyfcd32s-nazz261s-projects.vercel.app/sitemap.xml
